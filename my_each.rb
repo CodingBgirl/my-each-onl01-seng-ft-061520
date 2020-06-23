@@ -4,8 +4,8 @@ def my_each # put argument(s) here
   # counter
   # maybe it start at zero
   #basic while syntax
-  while condition
-
-  end
+  #while condition
+  #
+  #end
 
 end
